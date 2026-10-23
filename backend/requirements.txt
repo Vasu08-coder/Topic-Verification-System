@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+psycopg[binary]
+pgvector
+sentence-transformers
+python-jose[cryptography]
+bcrypt
+python-multipart
+pandas
+openpyxl
+pydantic-settings
+python-dotenv
+alembic
+pytest
+httpx
+slowapi
